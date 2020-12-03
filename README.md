@@ -1,4 +1,4 @@
-# Planner2020
+# Homework Tracker
 
 ![logo](https://github.com/aaWang27/Planner2020/blob/main/Homework%20Tracker%20Flowchart.png?raw=true)
 
