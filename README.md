@@ -16,4 +16,9 @@ The Year 2 Concepts I used were:
 
 I also used one ternary statement, and implemented Mouse listeners.
 
+## Future Updates
+* One feature I want to incorporate is the ability for the user to save their assignments.
+* Settings for the user to decide how they want to organize the assignments would also be useful.
+* I also wanted to color code the assignments based on status.
+
 ## Documentation
