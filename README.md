@@ -17,6 +17,3 @@ The Year 2 Concepts I used were:
 I also used one ternary statement, and implemented Mouse listeners.
 
 ## Documentation
-
-1. Video of Product
-2. Research Notes
