@@ -3,7 +3,7 @@ This project is a homework tracker for students. It allows them to add and remov
 ![alt text](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker.png)
 
 Here is the flowchart for my project.
-![alt text] (https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker%20Flowchart.png)
+![alt text](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker%20Flowchart.png)
 
 ## Year 2 Concepts
 The Year 2 Concepts I used were:
