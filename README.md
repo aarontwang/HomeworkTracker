@@ -1,6 +1,7 @@
 # 2020 CP2 Project: Homework Tracker
+This project is a homework tracker for students. It allows them to add and remove assignments.
+![alt text](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker.png)
 
-This project is a homework tracker for students.
 
 ## Year 2 Concepts
 The Year 2 Concepts I used were:
